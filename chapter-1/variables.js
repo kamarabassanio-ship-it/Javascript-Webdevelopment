@@ -35,7 +35,7 @@ let value = NaN; // Not a Number
 2. Print all the seven variables to the screen
 */
 
-let myName = "Mohamed Babatunde"; // String
+let myName = "Mohamed Babatunde"; // Strings
 const doB = "1/3/1991"; // String
 const gender = "male"; // String
 const student = true; // Boolean

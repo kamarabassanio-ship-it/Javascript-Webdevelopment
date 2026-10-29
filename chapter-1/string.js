@@ -1,4 +1,4 @@
-let university = "Limkokwing";
+`let university = "Limkokwing";
 console.log(university);
 
 let name = "Babatunde";
